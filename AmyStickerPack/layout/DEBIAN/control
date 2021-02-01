@@ -1,0 +1,9 @@
+Package: com.amywhile.amystickerpack
+Name: Amy Sticker Pack
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Cool iMessage stickers
+Maintainer: Amy While
+Conflicts: com.charliewhile.charliestickerpack
+Author: Amy While
+Section: Sticker Pack
