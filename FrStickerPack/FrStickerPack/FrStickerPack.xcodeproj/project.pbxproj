@@ -10,6 +10,7 @@
 		A35B29AE2555EC800033E68D /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = A35B29AD2555EC800033E68D /* Stickers.xcstickers */; };
 		A35B29AF2555EC800033E68D /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = A35B29AD2555EC800033E68D /* Stickers.xcstickers */; };
 		A3EAA049257AC57B00DB003D /* FrStickerPackStickerPackExtension.appex in Resources */ = {isa = PBXBuildFile; fileRef = A35B29A92555EC800033E68D /* FrStickerPackStickerPackExtension.appex */; };
+		E1CAF0F725CF3FCC00FD34FE /* FrStickerPackStickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = A35B29A92555EC800033E68D /* FrStickerPackStickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +30,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
+				E1CAF0F725CF3FCC00FD34FE /* FrStickerPackStickerPackExtension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;

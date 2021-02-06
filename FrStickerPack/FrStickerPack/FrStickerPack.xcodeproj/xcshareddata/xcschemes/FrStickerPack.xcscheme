@@ -57,8 +57,18 @@
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES"
       launchAutomaticallySubstyle = "2">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "1"
+         BundleIdentifier = "com.apple.MobileSMS">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A35B29A82555EC800033E68D"
+            BuildableName = "FrStickerPackStickerPackExtension.appex"
+            BlueprintName = "FrStickerPackStickerPackExtension"
+            ReferencedContainer = "container:FrStickerPack.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A35B29A42555EC800033E68D"
@@ -66,7 +76,7 @@
             BlueprintName = "FrStickerPack"
             ReferencedContainer = "container:FrStickerPack.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
