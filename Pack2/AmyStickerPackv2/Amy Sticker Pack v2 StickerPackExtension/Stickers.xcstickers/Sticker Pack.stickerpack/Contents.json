@@ -8,6 +8,9 @@
   },
   "stickers" : [
     {
+      "filename" : "hug.sticker"
+    },
+    {
       "filename" : "sad-anime.sticker"
     },
     {
@@ -74,7 +77,7 @@
       "filename" : "VanillaPray.sticker"
     },
     {
-      "filename" : "kirbyuhh.sticker"
+      "filename" : "blush.sticker"
     },
     {
       "filename" : "bored.sticker"
@@ -122,9 +125,6 @@
       "filename" : "heart-genderfluid.sticker"
     },
     {
-      "filename" : "hug.sticker"
-    },
-    {
       "filename" : "no-u.sticker"
     },
     {
@@ -138,6 +138,66 @@
     },
     {
       "filename" : "dead.sticker"
+    },
+    {
+      "filename" : "table.sticker"
+    },
+    {
+      "filename" : "notlikethis~2.sticker"
+    },
+    {
+      "filename" : "notlikethis.sticker"
+    },
+    {
+      "filename" : "notlikethis~3.sticker"
+    },
+    {
+      "filename" : "think.sticker"
+    },
+    {
+      "filename" : "think~2.sticker"
+    },
+    {
+      "filename" : "shrug.sticker"
+    },
+    {
+      "filename" : "cri.sticker"
+    },
+    {
+      "filename" : "angery.sticker"
+    },
+    {
+      "filename" : "uhhhhhhh.sticker"
+    },
+    {
+      "filename" : "yum.sticker"
+    },
+    {
+      "filename" : "gasm.sticker"
+    },
+    {
+      "filename" : "02headpat.sticker"
+    },
+    {
+      "filename" : "AAAAAAAA.sticker"
+    },
+    {
+      "filename" : "02wtf.sticker"
+    },
+    {
+      "filename" : "nfrkek.sticker"
+    },
+    {
+      "filename" : "nfrpeek.sticker"
+    },
+    {
+      "filename" : "peekbitch.sticker"
+    },
+    {
+      "filename" : "frtrans.sticker"
+    },
+    {
+      "filename" : "kirbyuhh.sticker"
     }
   ]
 }
