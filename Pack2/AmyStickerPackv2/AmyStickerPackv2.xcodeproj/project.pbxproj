@@ -275,6 +275,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 7J8FJX4SRX;
 				INFOPLIST_FILE = "Amy Sticker Pack v2 StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
@@ -291,6 +292,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 7J8FJX4SRX;
 				INFOPLIST_FILE = "Amy Sticker Pack v2 StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
@@ -307,6 +309,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 7J8FJX4SRX;
 				INFOPLIST_FILE = "Amy Sticker Pack v2/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
@@ -322,6 +325,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 7J8FJX4SRX;
 				INFOPLIST_FILE = "Amy Sticker Pack v2/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
